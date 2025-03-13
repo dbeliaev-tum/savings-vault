@@ -52,7 +52,7 @@ To deploy the contract, follow these steps:
 1.  Clone the repository:
 
     ```bash
-    git clone [https://github.com/dbeliaev-tum/savings-vault.git](https://github.com/your-repo/savings-vault.git)
+    git clone [https://github.com/dbeliaev-tum/savings-vault.git]
     cd savings-vault
     ```
 
